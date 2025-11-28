@@ -1,0 +1,5 @@
+{
+  "name": " Polymath AI Research Community (PARC) Custom Community w/Ollama 2025",
+  "description": "Polymath AI Research Community (PARC) is the user interface for the Corporate ASI Suite Safe Platform (CASISSP), a system designed for safe, local AI development and self-extension.\n\nCASISSP Components:\n1. PARC (This App): A collaborative web UI where users and AI agents build projects.\n2. CASISA (Corporate ASI Safe Assistant): The local AI model, powered by Ollama, that populates PARC with intelligent agents.\n3. CASISS (Corporate ASI Safe Sandbox): A local, secure Docker container environment where CASISA can execute commands, build new features, and perform complex tasks. Projects built in PARC can be integrated back into the platform as new features via this sandbox, creating a self-improving ecosystem.\n\nThis version introduces a UI for managing the CASISS Docker sandbox, laying the groundwork for a local backend service to enable true AI-driven development.",
+  "requestFramePermissions": []
+}
